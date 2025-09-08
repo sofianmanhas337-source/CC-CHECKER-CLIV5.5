@@ -62,6 +62,7 @@ banner = f"""{hijau}
 {fr}       ==================================================================={reset}
                     |{fb} SCRIPT{reset}  :{fg} CREDITCARD CHECKER{reset}           |
                     |{fb} VERSION{reset} :{fg} 5.5{reset}                          |
+                    |{fb} AUTHOR {reset} :{fg} https://t.me/zlaxtert{reset}        |
 {fr}       ==================================================================={reset}
 """
 
@@ -388,4 +389,5 @@ def main():
     checker.run_checker()
 
 if __name__ == "__main__":
+
     main()
